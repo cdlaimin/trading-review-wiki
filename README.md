@@ -3,6 +3,7 @@
 > 面向交易复盘知识库的 Codex CLI 工具集：把 raw 资料、正式 wiki、图谱、长期记忆、结构化事实和行情 SQL 组织成一个可检索、可验证、可迭代的交易研究系统。
 
 作者：杰哥｜公众号：`ymj0418`
+协作者：[@sowelswl](https://github.com/sowelswl)
 
 这个仓库现在的主定位不是单纯桌面应用，而是围绕 live 知识库运行的一套自动化 CLI：
 
@@ -403,6 +404,11 @@ git diff --check
 - 本地凭据加载股票 SQL 配置
 - vector store 维护命令
 - wiki housekeeping 日志与安全 raw search policy
+
+## Collaborators And Thanks
+
+- Collaborator: [@sowelswl](https://github.com/sowelswl)
+- Special thanks to 上海玄玑灵析科技 for supporting my personal growth and providing technical support for this project.
 
 ## License
 

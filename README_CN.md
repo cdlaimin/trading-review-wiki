@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  协作者：<a href="https://github.com/sowelswl">sowelswl</a>
+</p>
+
+<p align="center">
   <a href="#核心功能">核心功能</a> •
   <a href="#快速开始">快速开始</a> •
   <a href="#技术栈">技术栈</a> •
@@ -157,6 +161,10 @@ npm run codex:ingest -- ask \
 ## 致谢
 
 基础方法论来自 **Andrej Karpathy** 的 [llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)。
+
+协作者：[@sowelswl](https://github.com/sowelswl)。
+
+特别感谢 **上海玄玑灵析科技** 对我自身成长的帮助，以及在技术支持上的帮助。
 
 ## 许可证
 
